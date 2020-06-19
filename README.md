@@ -15,10 +15,10 @@ On this page:
 
 Other pages:
 
-- [Sign the CLA](https://github.com/Sciss/Contributing/blob/master/sign-cla.md)
-- [CLA Rationale](https://github.com/Sciss/Contributing/blob/master/cla-rationale.md)
-- [Contributors](https://github.com/Sciss/Contributing/blob/master/contributors)
-- [Contributor License Agreement 1.0](https://github.com/Sciss/Contributing/blob/master/cla-1.0.md)
+- [Sign the CLA](https://github.com/Sciss/Contributing/blob/main/sign-cla.md)
+- [CLA Rationale](https://github.com/Sciss/Contributing/blob/main/cla-rationale.md)
+- [Contributors](https://github.com/Sciss/Contributing/blob/main/contributors)
+- [Contributor License Agreement 1.0](https://github.com/Sciss/Contributing/blob/main/cla-1.0.md)
 
 -------
 
@@ -42,14 +42,14 @@ electronically sign a statement that indicates two things:
 The reason I do this is to ensure, to the extent possible, that I don't “taint”
 the projects I manage with contributions that turn out to be improper. This protects
 everyone who wants to use the projects, including _you_! If you want a longer explanation,
-then you can check out the [CLA Rationale page](https://github.com/Sciss/Contributing/blob/master/cla-rationale.md).
+then you can check out the [CLA Rationale page](https://github.com/Sciss/Contributing/blob/main/cla-rationale.md).
 
 Once you sign the Contributor License Agreement (the "CLA"), I will then be able to
 merge your contributions with a clear conscience and with only the friction that results
 from the usual technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the
-[Sign the CLA](https://github.com/Sciss/Contributing/blob/master/sign-cla.md)
+[Sign the CLA](https://github.com/Sciss/Contributing/blob/main/sign-cla.md)
 page.
 
 If you have any questions about any of this, please raise them by
