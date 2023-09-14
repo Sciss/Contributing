@@ -2,16 +2,16 @@
 
 This page is the step-by-step guide to signing the
 Contributors License Agreement (CLA) for the open source projects
-at [github.com/Sciss](https://github.com/Sciss). It's easy and pretty painless!
+at [codeberg.org/sciss](https://codeberg.org/sciss) and [github.com/Sciss](https://github.com/Sciss). It's easy and pretty painless!
 For an explanation about why I ask you to do this, see the
 [CLA Rationale page](cla-rationale.md).
 
 1. First and foremost, read [the current version of the CLA](cla-1.0.md). 
    It is written to be as close to plain English as possible.
 
-2. Make an account on [GitHub](https://github.com/) if you don't already have one.
+2. Make an account on [Codeberg](https://codeberg.org) or [GitHub](https://github.com/) if you don't already have one.
 
-3. File a pull request on _this_ project ([Sciss/Contributing](https://github.com/Sciss/Contributing)),
+3. File a pull request on _this_ project ([sciss/Contributing](https://codeberg.org/sciss/Contributing)),
    as [outlined below](#filing-the-pull-request).
 
 4. Email me, as [outlined below](#sending-the-email).
@@ -51,13 +51,13 @@ Put the following content in the file:
     Signed,
     
     [your name]
-    https://github.com/[your github userid]
+    https://codeberg.org/[your codeberg userid] or https://github.com/[your github userid]
 
 Replace the bracketed text as follows:
 
 - `[date]` with today's date, in the unambiguous numeric form `YYYY-MM-DD`.
 - `[your name]` with your name.
-- `[your github userid]` with your GitHub user-id.
+- `[your codeberg userid]` with your Codeberg user-id, or `[your github userid]` with your GitHub user-id.
 
 You can confirm the [MD5 checksum](https://en.wikipedia.org/wiki/MD5)
 of the CLA by running the md5 or md5sum program over `cla-1.0.md`:
@@ -83,13 +83,13 @@ with the subject "CLA" and the following body:
     Signed,
     
     [your name]
-    https://github.com/[your github userid]
+    https://codeberg.org/[your codeberg userid] or https://github.com/[your github userid]
     [your address]
 
 Again, replace the bracketed text as follows:
 
 - `[your name]` with your name.
-- `[your github userid]` with your GitHub user-id.
+- `[your codeberg userid]` with your Codeberg user-id, or `[your github userid]` with your GitHub user-id.
 - `[your address]` with a physical mailing address at which you can be contacted.
 
 If you wish, you may send the email with PGP encryption. My public key with identifier

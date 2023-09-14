@@ -1,7 +1,7 @@
-# Open Source at github.com/Sciss
+# Open Source at codeberg.org/sciss
 
 This repository serves as the umbrella project to represent the
-various open source efforts at [github.com/Sciss](https://github.com/Sciss).
+various open source efforts at [codeberg.org/sciss](https://codeberg.org/sciss).
 Come here to learn how to contribute to them, and to sign up as a contributor.
 
 <small>(The files and wording in this repository are based on a similar project 
@@ -15,10 +15,10 @@ On this page:
 
 Other pages:
 
-- [Sign the CLA](https://github.com/Sciss/Contributing/blob/main/sign-cla.md)
-- [CLA Rationale](https://github.com/Sciss/Contributing/blob/main/cla-rationale.md)
-- [Contributors](https://github.com/Sciss/Contributing/blob/main/contributors)
-- [Contributor License Agreement 1.0](https://github.com/Sciss/Contributing/blob/main/cla-1.0.md)
+- [Sign the CLA](https://codeberg.org/sciss/Contributing/src/branch/main/sign-cla.md)
+- [CLA Rationale](https://codeberg.org/sciss/Contributing/src/branch/main/cla-rationale.md)
+- [Contributors](https://codeberg.org/sciss/Contributing/src/branch/main/contributors)
+- [Contributor License Agreement 1.0](https://codeberg.org/sciss/Contributing/src/branch/main/cla-1.0.md)
 
 -------
 
@@ -26,7 +26,7 @@ Other pages:
 
 Hello and Welcome!
 
-[I am](https://github.com/Sciss) eager to work with you. For small changes&mdash;trivial
+[I am](https://codeberg.org/sciss) eager to work with you. For small changes&mdash;trivial
 bug fixes, correcting typos, and the like&mdash;please just submit pull
 requests to any of my projects. For larger changes, though, I have to ask you to jump
 through a little hoop.
@@ -42,14 +42,14 @@ electronically sign a statement that indicates two things:
 The reason I do this is to ensure, to the extent possible, that I don't “taint”
 the projects I manage with contributions that turn out to be improper. This protects
 everyone who wants to use the projects, including _you_! If you want a longer explanation,
-then you can check out the [CLA Rationale page](https://github.com/Sciss/Contributing/blob/main/cla-rationale.md).
+then you can check out the [CLA Rationale page](https://codeberg.org/sciss/Contributing/src/branch/main/cla-rationale.md).
 
 Once you sign the Contributor License Agreement (the "CLA"), I will then be able to
 merge your contributions with a clear conscience and with only the friction that results
 from the usual technical back-and-forth of a vibrant open source project.
 
 To get started with this process, visit the
-[Sign the CLA](https://github.com/Sciss/Contributing/blob/main/sign-cla.md)
+[Sign the CLA](https://codeberg.org/sciss/Contributing/src/branch/main/sign-cla.md)
 page.
 
 If you have any questions about any of this, please raise them by

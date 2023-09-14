@@ -1,11 +1,11 @@
 # Contributor License Agreement
 
-Thank you for your interest in contributing to projects at [github.com/Sciss](https://github.com/Sciss)
+Thank you for your interest in contributing to projects at [codeberg.org/sciss](https://codeberg.org/sciss)
 ("We" or "Us").
 
 This contributor agreement ("Agreement") documents the rights granted by contributors to Us. To make this
 document effective, please sign it and send it to Us by email, following the instructions at
-https://github.com/Sciss/Contributing. This is a legally binding document, so please read it carefully
+https://codeberg.org/sciss/Contributing. This is a legally binding document, so please read it carefully
 before agreeing to it. The Agreement may cover more than one software project managed by Us.
 
 ## 1. Definitions
@@ -14,7 +14,7 @@ before agreeing to it. The Agreement may cover more than one software project ma
 
 "Contribution" means any work of authorship that is Submitted by You to Us in which You own or assert
 ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow
-the instructions at https://github.com/Sciss/Contributing.
+the instructions at https://codeberg.org/sciss/Contributing.
 
 "Copyright" means all rights protecting works of authorship owned or controlled by You, including
 copyright, moral and neighboring rights, as appropriate, for the full term of their existence including
@@ -101,7 +101,7 @@ parties, including Your employer. If You are an employee, You have had Your empl
 sign the Entity version of this document. If You are less than eighteen years old, please have Your parents or
 guardian sign the Agreement.
 
-__(d)__ You have followed the instructions in https://github.com/Sciss/Contributing, if You do not own the
+__(d)__ You have followed the instructions in https://codeberg.org/sciss/Contributing, if You do not own the
 Copyright in the entire work of authorship Submitted.
 
 ## 4. Disclaimer

@@ -15,7 +15,7 @@ by claiming they weren't really contributing under the project's open
 source license. For some projects "trouble" has historically come, for
 example, in the form of patent lawsuits.
 
-[I want](https://github.com/Sciss) to do my part to guard against this
+[I want](https://codeberg.org/sciss) to do my part to guard against this
 potential trouble, and I believe so should you. I am trying to
 make the agreement and process nearly-transparent,
 natural to do for people already active in open source, and (I hope)

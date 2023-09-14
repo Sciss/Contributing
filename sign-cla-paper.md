@@ -18,7 +18,7 @@ with the following content:
     [your signature]
     
     [your name]
-    https://github.com/[your github userid]
+    https://codeberg.org/[your codeberg userid] or https://github.com/[your github userid]
     [your email address]
     [your address]
     [your phone number]
@@ -28,7 +28,7 @@ Replace the bracketed text as follows:
 - `[date]` with today's date, in the unambiguous numeric form `YYYY-MM-DD`.
 - `[your signature]` with your signature.
 - `[your name]` with your name (printed).
-- `[your github userid]` with your GitHub user-id.
+- `[your codeberg userid]` with your Codeberg user-id, or `[your github userid]` with your GitHub user-id.
 - `[your email address]` with an email address at which you can be contacted.
 - `[your address]` with a physical mailing address at which you can be contacted.
 - `[your phone number]` with a phone number at which you can be contacted.
